@@ -1,0 +1,5 @@
+SELECT collection.title, year.date, picture.path 
+FROM collection, year, picture 
+WHERE collection.yearREF = yearID 
+AND picture.collectionREF = collectionID 
+AND picture.yearREF = yearID
