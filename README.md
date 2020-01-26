@@ -7,7 +7,7 @@ Photo-Album-Website is a website that can catalog your pictures. You can add **Y
 
 ## How to install
 I used an **Apache** Server to host this website and **MySQL** for the database.
-  - copy the "album" folder to the execution folder of you Apache Webserver (<your paht>\htdocs\album)
+  - copy the "photo-album-website" folder to the execution folder of you Apache Webserver (<your paht>\htdocs\photo-album-website)
   - add the database by entering the following URL into a web browser, create a new database called " 5ahel_zettler" and import the "5ahel_zettler.sql" file.
 
 ## Adding a Year
