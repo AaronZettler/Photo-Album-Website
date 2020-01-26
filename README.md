@@ -5,6 +5,9 @@ Photo-Album-Website is a website that can catalog your pictures. You can add **Y
 
 **Team members**: Aaron Zettler
 
+## Entity Relationship Diagram
+![entity-relationship-diagram](http://m.UploadEdit.com/bbtc/1580003202309.jpg)
+
 ## How to install
 I used an **Apache** Server to host this website and **MySQL** for the database.
   - copy the "photo-album-website" folder to the execution folder of you Apache Webserver (<your paht>\htdocs\photo-album-website)
