@@ -1,7 +1,7 @@
 # Photo-Album-Website
 ![Pi_Remote_IR](http://m.UploadEdit.com/bbtc/1579994855661.jpg)
 
-Photo-Album-Website is a website that can catalog your pictures. You can add **Years**, **Subjects** and **Pictures**. Each Year contains multiple Subject and each subject contains multiple Pictures. Note that you **can't upload big pictures or to many pictures at once**. For that you might need to reconfigure your Apache Server.
+Photo-Album-Website is a website that can catalog your pictures. You can add **Years**, **Subjects** and **Pictures**. Each Year contains multiple Subject and each subject contains multiple Pictures. Note that you **can't upload big pictures or to many pictures at once** because the pictures will not be displayed correctly. For that you might need to reconfigure your Apache Server.
 
 **Team members**: Aaron Zettler
 
